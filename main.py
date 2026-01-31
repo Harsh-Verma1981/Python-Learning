@@ -16,7 +16,7 @@ else:
 
 marks = int(input("Enter the marks: "))
 
-// Grade Marking
+# Grade Marking
 
 if(marks >= 90):
     print("O Grade")
